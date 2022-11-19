@@ -1,0 +1,21 @@
+theme = "dracula"
+
+[editor]
+line-number = "relative"
+mouse = true
+shell = ["sh","-c"]
+auto-format = true
+auto-completion = true
+true-color = true
+auto-info = true
+color-modes =true
+auto-pairs = true # defaults to `true`
+
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false

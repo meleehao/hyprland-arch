@@ -1,0 +1,19 @@
+
+[ui]
+font-family = "Sarasa UI SC"
+
+[editor]
+font-family = "Sarasa Term SC"
+
+[core]
+color-theme = "Lapce Dark"
+custom-titlebar = false
+
+[terminal]
+font-size = 17
+
+[lapce-cpp-clangd]
+"volt.serverPath" = "/sbin/clangd"
+
+[lapce-rust]
+serverPath = "/sbin/rust-analyzer"
